@@ -55,6 +55,12 @@ header {
     left: 50%;
 }
 
+/* My */
+.header__arrow a {
+    text-decoration: none;
+    color: white;
+}
+
 
 .container {
     width: 1140px;
